@@ -177,7 +177,7 @@ pytzdata==2018.9
 PyWavelets==1.0.2
 pywin32==223
 pywinpty==0.5.5
-PyYAML==3.13
+PyYAML==5.4
 pyzmq==17.1.2
 QtAwesome==0.5.7
 qtconsole==4.4.4
